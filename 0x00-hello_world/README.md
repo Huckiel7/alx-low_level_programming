@@ -1,1 +1,1 @@
-Dora Korpar, 2015-10-19
+that piece of art is useful
