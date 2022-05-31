@@ -1,1 +1,1 @@
-100 intel advanced
+nd that piece of art is useful" - Dora Korpar
