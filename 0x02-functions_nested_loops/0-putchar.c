@@ -21,5 +21,3 @@ _putchar('\n');
 
 return (0);
 }
-
-Â
