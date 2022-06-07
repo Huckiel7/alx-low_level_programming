@@ -1,1 +1,1 @@
-Write a function that prints the n times table, starting with 0
+Nature made the natural numbers; All else is the work of women
