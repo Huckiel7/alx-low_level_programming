@@ -1,1 +1,1 @@
-Write a function that prints half of a string, followed by a new line, task 7
+Write a function that prints n elements of an array of integers, followed by a new line, task 8
