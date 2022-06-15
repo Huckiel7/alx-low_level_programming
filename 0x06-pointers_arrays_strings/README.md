@@ -1,1 +1,1 @@
-Write a function that concatenates two strings, task 1
+Write a function that copies a string, task 2
