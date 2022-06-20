@@ -1,1 +1,1 @@
-Creating a readme for task 2, Write a function that locates a character in a string
+Creating a readme for task 3, Write a function that gets the length of a prefix substring
