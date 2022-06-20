@@ -1,1 +1,1 @@
-Creating a readme for task 3, Write a function that gets the length of a prefix substring
+Creating a readme for task 4, Write a function that searches a string for any of a set of bytes
