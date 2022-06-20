@@ -1,1 +1,1 @@
- Readme for task 0, Write a function that fills memory with a constant byte
+Creating a readme for task 1, Write a function that copies memory area
