@@ -1,1 +1,1 @@
-Creating a readme for task 1, Write a function that copies memory area
+Creating a readme for task 2, Write a function that locates a character in a string
