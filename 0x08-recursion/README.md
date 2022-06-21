@@ -1,1 +1,1 @@
-Write a function that returns the factorial of a given number, task3
+Write a function that returns the value of x raised to the power of y, task4
