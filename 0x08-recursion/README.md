@@ -1,1 +1,1 @@
-Write a function that returns the length of a string, task2
+Write a function that returns the factorial of a given number, task3
