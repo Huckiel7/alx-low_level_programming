@@ -1,1 +1,1 @@
-Write a function that creates an array of integers, task 3
+Write a program that multiplies two positive numbers, task 5
