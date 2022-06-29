@@ -1,1 +1,1 @@
-Creating a readme for main.h & _putchar.c files
+Write a function that concatenates two strings, task 1
