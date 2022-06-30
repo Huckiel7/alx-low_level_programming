@@ -1,1 +1,1 @@
-Write a program that multiplies two positive numbers, task 5
+Attempt 2 on task 5, We must accept finite disappointment, but never lose infinite hope
