@@ -1,1 +1,1 @@
-task 3, dog.h & task 4, 4-new_dog.c completed
+task 5, 5-free_dog.c completed
