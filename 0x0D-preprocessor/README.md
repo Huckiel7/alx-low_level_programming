@@ -1,1 +1,1 @@
-Write a function-like macro SUM(x, y) that computes the sum of the numbers x and y, task 4
+updated task 2_main.c
