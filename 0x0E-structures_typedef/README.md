@@ -1,1 +1,1 @@
-task 1, 1-init_dog. complete
+task 2, 2-print_dog.c complete
