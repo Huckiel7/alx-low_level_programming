@@ -1,1 +1,1 @@
-0-main.c & 0-print_name.c files created
+the readme for 1-array_iterator.c & 1-main.c
