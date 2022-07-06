@@ -1,1 +1,1 @@
-Readme for variadic_functions.h file
+task 0, Beauty is variable, ugliness is constant
