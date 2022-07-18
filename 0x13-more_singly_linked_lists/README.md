@@ -1,1 +1,1 @@
-task 8, 9 & 10
+Advanced tasks, 11. Reverse list - 14. Find the loop
