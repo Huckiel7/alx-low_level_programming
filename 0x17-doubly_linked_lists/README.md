@@ -1,1 +1,1 @@
-Creating a README for 0x17-doubly_linked_lists
+task 0 - Advanced task 103 completed
